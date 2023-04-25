@@ -1,4 +1,4 @@
-{% extends "./layouts/root.html" %}
+{% extends "./layouts/root.dtl" %}
 
 {% block "main" %}
   {{message}}
