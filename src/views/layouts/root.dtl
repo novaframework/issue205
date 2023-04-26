@@ -1,7 +1,7 @@
 <html>
 
 <body>
-  {% block "main" %}{% endblock "main" %}
+  {% block main %}{% endblock %}
 </body>
 
 </html>

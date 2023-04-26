@@ -1,5 +1,5 @@
 {% extends "./layouts/root.dtl" %}
 
-{% block "main" %}
+{% block main %}
   {{message}}
-{% endblock "main" %}
+{% endblock %}
